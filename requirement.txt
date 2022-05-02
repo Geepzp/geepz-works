@@ -1,8 +1,8 @@
 # Requirement file used for python
-flask
-jinja2
-markupsafe
-werkzeug
-requests
-gunicorn
+flask==0.10.1
+jinja2==2.7.3
+markupsafe==0.23
+werkzeug==0.9.6
+requests==2.3.0
+gunicorn==18.0
 
